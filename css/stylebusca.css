@@ -1,0 +1,27 @@
+
+/*registros*/
+
+
+table.registros{
+		border: inherit;
+		font: Arial, Helvetica, sans-serif;
+		font-size:12px;
+		width: 600px;
+		height: auto;
+		
+			}
+table.registros td{
+		border:0;
+		
+	}	
+table.registros tr.titulos{
+		background:#d2e0ea;
+		text-align: left;
+		text-transform:uppercase;
+	}
+table.registros tr.row0{
+		background:#e1edf6;
+	}
+table.registros tr.row1{
+		background:#f7f7f7;
+	}
